@@ -1,0 +1,1679 @@
+﻿Log file open, 03/12/19 22:23:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BananaCollector
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274073
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.137s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD FX(tm)-6300 Six-Core Processor             , GPU: NVIDIA GeForce GTX 950
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:580][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:587][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-05.23.52:587][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-05.23.52:588][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-05.23.52:588][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-05.23.52:588][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.13-05.23.52:598][  0]LogHAL: Display: Platform has ~ 16 GB [17125642240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.13-05.23.52:598][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.13-05.23.52:598][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.13-05.23.52:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.13-05.23.52:599][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.13-05.23.52:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.13-05.23.52:600][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.03.13-05.23.52:600][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.13-05.23.52:600][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.13-05.23.52:600][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.13-05.23.52:600][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.13-05.23.52:600][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Config/Windows/Engine.ini]
+[2019.03.13-05.23.52:600][  0]LogInit: Computer: ALPHA-PC
+[2019.03.13-05.23.52:600][  0]LogInit: User: Alpha
+[2019.03.13-05.23.52:600][  0]LogInit: CPU Page size=4096, Cores=3
+[2019.03.13-05.23.52:600][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2019.03.13-05.23.52:601][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.13-05.23.52:601][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.13-05.23.52:601][  0]LogMemory: Process Physical Memory: 102.87 MB used, 102.87 MB peak
+[2019.03.13-05.23.52:601][  0]LogMemory: Process Virtual Memory: 93.07 MB used, 93.07 MB peak
+[2019.03.13-05.23.52:601][  0]LogMemory: Physical Memory: 5646.20 MB used,  10686.09 MB free, 16332.29 MB total
+[2019.03.13-05.23.52:601][  0]LogMemory: Virtual Memory: 4627.36 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.03.13-05.23.52:626][  0]LogInit: Using OS detected language (en-US).
+[2019.03.13-05.23.52:626][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.13-05.23.52:628][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.13-05.23.53:129][  0]LogStreaming: Display: Took  0.503s to InitEngineTextLocalization.
+[2019.03.13-05.23.53:129][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.13-05.23.53:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.13-05.23.53:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.13-05.23.53:598][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-05.23.53:598][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.13-05.23.53:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2019.03.13-05.23.53:661][  0]LogD3D11RHI:       2017/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.13-05.23.53:672][  0]LogD3D11RHI:    1. 'AMD Radeon HD 5670' (Feature Level 11_0)
+[2019.03.13-05.23.53:672][  0]LogD3D11RHI:       1010/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.03.13-05.23.53:674][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.13-05.23.53:674][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.13-05.23.53:674][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.13-05.23.53:683][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.13-05.23.53:683][  0]LogD3D11RHI:     GPU DeviceId: 0x1402 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.13-05.23.53:683][  0]LogWindows: EnumDisplayDevices:
+[2019.03.13-05.23.53:683][  0]LogWindows:    0. 'NVIDIA GeForce GTX 950' (P:1 D:1)
+[2019.03.13-05.23.53:684][  0]LogWindows:    1. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.03.13-05.23.53:684][  0]LogWindows:    2. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.03.13-05.23.53:685][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.03.13-05.23.53:685][  0]LogWindows:    4. 'AMD Radeon HD 5670' (P:0 D:1)
+[2019.03.13-05.23.53:686][  0]LogWindows:    5. 'AMD Radeon HD 5670' (P:0 D:0)
+[2019.03.13-05.23.53:686][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.03.13-05.23.53:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950
+[2019.03.13-05.23.53:686][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2019.03.13-05.23.53:686][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2019.03.13-05.23.53:686][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2019.03.13-05.23.53:725][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.13-05.23.53:738][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.13-05.23.54:217][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.13-05.23.54:238][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.13-05.23.54:260][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.13-05.23.54:281][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.13-05.23.54:303][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.13-05.23.54:325][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.13-05.23.54:346][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.13-05.23.54:369][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.13-05.23.54:379][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:490][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.13-05.23.54:492][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.13-05.23.54:568][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-05.23.54:568][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.13-05.23.54:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-05.23.54:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.13-05.23.54:634][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.13-05.23.54:659][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.13-05.23.54:683][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.13-05.23.54:710][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.13-05.23.54:800][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-05.23.54:800][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.13-05.23.54:800][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.13-05.23.54:923][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Intermediate/Shaders/WorkingDirectory/10488/).
+[2019.03.13-05.23.54:923][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alpha/AppData/Local/Temp/UnrealShaderWorkingDir/47919F864084737971298CAAD407F5FE/'.
+[2019.03.13-05.23.54:929][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.13-05.23.54:929][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.13-05.23.54:929][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.13-05.23.55:855][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.13-05.23.55:934][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Alpha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.13-05.23.55:934][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alpha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.13-05.23.55:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.13-05.23.55:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.13-05.23.55:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-05.23.55:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.13-05.23.55:951][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.13-05.23.55:951][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.13-05.23.55:951][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.13-05.23.55:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alpha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.13-05.23.55:964][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.13-05.23.55:964][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.13-05.23.56:007][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.13-05.23.56:009][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.13-05.23.56:010][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.13-05.23.56:146][  0]LogAssetRegistry: FAssetRegistry took 0.0415 seconds to start up
+[2019.03.13-05.23.56:743][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.13-05.23.56:874][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.13-05.23.56:881][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.13-05.23.56:881][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.13-05.23.56:881][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.13-05.23.56:881][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.13-05.23.57:026][  0]LogNetVersion: BananaCollector 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3010563258)
+[2019.03.13-05.23.57:816][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116779 seconds
+[2019.03.13-05.23.57:825][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.13-05.23.57:825][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.13-05.23.57:825][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.13-05.23.59:304][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.13-05.23.59:332][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.13-05.24.00:406][  0]SourceControl: Source control is disabled
+[2019.03.13-05.24.00:406][  0]SourceControl: Source control is disabled
+[2019.03.13-05.24.00:408][  0]SourceControl: Source control is disabled
+[2019.03.13-05.24.00:410][  0]SourceControl: Source control is disabled
+[2019.03.13-05.24.00:626][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.13-05.24.00:752][  0]LogOcInput: OculusInput pre-init called
+[2019.03.13-05.24.00:921][  0]LogEngine: Initializing Engine...
+[2019.03.13-05.24.00:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.13-05.24.00:924][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-05.24.00:924][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-05.24.00:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-05.24.00:925][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-05.24.01:238][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.13-05.24.01:262][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.13-05.24.01:294][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-05.24.01:310][  0]LogInit: FAudioDevice initialized.
+[2019.03.13-05.24.01:310][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.13-05.24.01:509][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/Alpha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.13-05.24.01:509][  0]LogInit: Texture streaming: Enabled
+[2019.03.13-05.24.01:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.13-05.24.01:576][  0]LogInit: Transaction tracking system initialized
+[2019.03.13-05.24.01:627][  0]BlueprintLog: New page: Editor Load
+[2019.03.13-05.24.01:781][  0]LocalizationService: Localization service is disabled
+[2019.03.13-05.24.02:447][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/' took 0.01s
+[2019.03.13-05.24.02:447][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.13-05.24.02:448][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.13-05.24.02:448][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.13-05.24.02:448][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.13-05.24.02:448][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.13-05.24.02:448][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.13-05.24.02:448][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.13-05.24.02:690][  0]SourceControl: Source control is disabled
+[2019.03.13-05.24.02:690][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BananaCollector/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.13-05.24.02:691][  0]LightingResults: New page: Lighting Build
+[2019.03.13-05.24.02:697][  0]MapCheck: New page: Map Check
+[2019.03.13-05.24.02:697][  0]LightingResults: New page: Lighting Build
+[2019.03.13-05.24.02:984][  0]LogMaterial: Display: Missing cached shader map for material M_Cube, compiling. 
+[2019.03.13-05.24.03:093][  0]LogStaticMesh: Building static mesh SM_Cube...
+[2019.03.13-05.24.03:138][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.24.03:138][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.24.03:138][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.24.03:138][  0]LogStaticMesh: Built static mesh [0.05s] /Game/BananaCollector/Meshes/SM_Cube.SM_Cube
+[2019.03.13-05.24.03:143][  0]LogMaterial: Display: Missing cached shader map for material M_Level, compiling. 
+[2019.03.13-05.24.03:249][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-05.24.03:256][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.13-05.24.03:357][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.13-05.24.03:357][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.236ms to complete.
+[2019.03.13-05.24.03:357][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.668
+[2019.03.13-05.24.03:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.24.03:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.24.03:535][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.24.03:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.24.03:559][  0]LogCollectionManager: Loaded 0 collections in 0.003841 seconds
+[2019.03.13-05.24.03:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Collections/' took 0.01s
+[2019.03.13-05.24.03:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Developers/Alpha/Collections/' took 0.01s
+[2019.03.13-05.24.03:592][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Collections/' took 0.00s
+[2019.03.13-05.24.03:592][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.13-05.24.03:610][  0]LogContentBrowser: Native class hierarchy populated in 0.0177 seconds. Added 2651 classes and 620 folders.
+[2019.03.13-05.24.03:623][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.13-05.24.03:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:631][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.13-05.24.03:767][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.13-05.24.03:777][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.03.13-05.24.03:802][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.13-05.24.03:806][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.13-05.24.03:815][  0]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.13-05.24.03:946][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.03.13-05.24.04:104][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.13-05.24.04:104][  0]LogLoad: (Engine Initialization) Total time: 14.87 seconds
+[2019.03.13-05.24.04:104][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.13-05.24.04:115][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-05.24.04:194][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.13-05.24.04:212][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-05.24.04:441][  2]LogAssetRegistry: Asset discovery search completed in 8.3168 seconds
+[2019.03.13-05.24.04:444][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.13-05.24.04:444][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2019.03.13-05.24.07:779][363]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.24.09:015][506]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.24.10:445][666]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.24.19:613][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.24.21:126][277]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.13-05.24.21:128][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.24.21:178][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.24.24:768][277]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.13-05.24.24:797][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.24.31:923][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.24.39:934][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Player.BP_Player
+[2019.03.13-05.24.40:952][ 75]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 117 classes and 0 folders.
+[2019.03.13-05.25.16:613][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.25.53:000][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.26.11:658][887]LogSlate: Took 0.012584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.13-05.26.12:155][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.26.14:322][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.26.31:775][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.27.11:027][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.27.11:100][340]BlueprintLog: New page: Compile BP_Player
+[2019.03.13-05.27.13:968][542]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-05.27.13:973][542]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-05.27.33:384][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.27.45:904][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.27.48:046][317]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.13-05.27.48:081][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.27.57:533][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.28.08:021][695]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GM_Tutorial.GM_Tutorial
+[2019.03.13-05.28.30:423][878]LogRenderer: Reallocating scene render targets to support 1208x940 Format 10 NumSamples 1 (Frame:2050).
+[2019.03.13-05.28.41:054][922]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.13-05.28.58:005][664]BlueprintLog: New page: Compile GM_Tutorial
+[2019.03.13-05.28.59:667][779]LogSlate: Window 'GM_Tutorial*' being destroyed
+[2019.03.13-05.28.59:672][779]LogSlate: Window 'GM_Tutorial*' being destroyed
+[2019.03.13-05.29.12:400][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.13-05.29.14:311][515]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.13-05.29.24:759][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.29.40:397][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.29.41:651][709]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.13-05.31.01:370][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.31.01:376][168]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.13-05.31.17:495][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.31.38:135][454]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.13-05.31.39:256][580]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.13-05.31.40:087][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.13-05.31.44:398][128]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.13-05.31.45:647][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.31.45:755][286]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-05.31.45:778][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.31.45:778][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-05.31.45:796][286]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 3:31:45 PM)
+[2019.03.13-05.31.45:825][286]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-05.31.45:829][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004235s)
+[2019.03.13-05.31.45:838][286]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-05.31.45:838][286]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2019.03.13-05.31.45:838][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013403s)
+[2019.03.13-05.31.45:935][286]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-05.31.45:945][286]LogInit: FAudioDevice initialized.
+[2019.03.13-05.31.46:046][286]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-05.31.46:083][286]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-22.31.46
+[2019.03.13-05.31.46:084][286]LogWorld: Bringing up level for play took: 0.001008
+[2019.03.13-05.31.46:149][286]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.03.13-05.31.46:179][286]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-20.000 Y=820.000 Z=132.000] for [BP_Player_C]
+[2019.03.13-05.31.46:180][286]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Player_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -20.000000 820.000000 132.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2019.03.13-05.31.46:180][286]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 0.552
+[2019.03.13-05.31.46:181][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.31.57:077][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.31.57:259][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.31.57:260][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.31.57:298][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-05.31.57:298][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.31.57:369][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.31.57:391][476]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.13-05.32.02:554][ 73]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2019.03.13-05.32.03:016][127]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.03.13-05.32.06:816][573]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.13-05.32.07:367][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-05.32.08:906][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-05.32.09:418][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-05.32.21:668][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-05.32.21:767][263]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-05.32.21:774][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.32.21:774][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-05.32.21:774][263]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 3:32:21 PM)
+[2019.03.13-05.32.21:774][263]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-05.32.21:778][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003994s)
+[2019.03.13-05.32.21:779][263]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-05.32.21:779][263]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.03.13-05.32.21:779][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004840s)
+[2019.03.13-05.32.21:867][263]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-05.32.21:875][263]LogInit: FAudioDevice initialized.
+[2019.03.13-05.32.21:909][263]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-05.32.21:911][263]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-22.32.21
+[2019.03.13-05.32.21:911][263]LogWorld: Bringing up level for play took: 0.000941
+[2019.03.13-05.32.21:925][263]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 0.297
+[2019.03.13-05.32.21:925][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.32.26:277][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.32.27:915][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.32.27:915][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.32.27:949][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-05.32.27:949][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.32.28:027][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.32.28:049][941]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.13-05.32.52:115][526]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.13-05.32.52:210][527]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BananaCollector
+[2019.03.13-05.32.52:210][527]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.13-05.32.52:210][527]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.03.13-05.32.52:210][527]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.13-05.32.52:210][527]LogTemp: BranchPath = ALPHA-PC/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = ALPHA-PC/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.03.13-05.32.52:258][528]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alpha\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.13-05.35.15:345][772]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/TutorialMap_Auto1F54E8E6F4193C60090181C94730A7BBF.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BananaCollector/Maps/TutorialMap_Auto1.umap'
+[2019.03.13-05.35.15:350][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BananaCollector/Maps/TutorialMap' took 0.311
+[2019.03.13-05.35.15:350][772]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2019.03.13-05.35.15:351][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Player] ([1] browsable assets)...
+[2019.03.13-05.35.15:391][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Player.BP_Player]
+[2019.03.13-05.35.15:391][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player]
+[2019.03.13-05.35.15:391][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.13-05.35.15:411][772]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_Player_Auto117A88EF74151C43416B6BEB338310CA6.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto1.uasset'
+[2019.03.13-05.35.15:413][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GM_Tutorial] ([1] browsable assets)...
+[2019.03.13-05.35.15:414][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/GM_Tutorial]
+[2019.03.13-05.35.15:414][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GM_Tutorial" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/GM_Tutorial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.03.13-05.35.15:421][772]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/GM_Tutorial_Auto1CCB164B0412D0ED957689BB96DC868B8.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/GM_Tutorial_Auto1.uasset'
+[2019.03.13-05.35.15:424][772]LogFileHelpers: Auto-saving content packages took 0.073
+[2019.03.13-05.40.13:996][656]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.13-05.40.14:001][656]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.13-05.40.17:478][ 57]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Player.BP_Player
+[2019.03.13-05.40.17:888][ 57]LogSlate: Took 0.014094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.13-05.41.21:392][558]LogSlate: Took 0.015843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.13-05.41.29:742][271]BlueprintLog: New page: Compile BP_Player
+[2019.03.13-05.45.40:734][236]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BananaCollector/Maps/TutorialMap' took 0.079
+[2019.03.13-05.45.40:736][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Player] ([1] browsable assets)...
+[2019.03.13-05.45.40:755][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Player.BP_Player]
+[2019.03.13-05.45.40:755][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player]
+[2019.03.13-05.45.40:755][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.03.13-05.45.40:789][236]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_Player_Auto2A99589484DE82BDB9D2A3B900312A3FA.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto2.uasset'
+[2019.03.13-05.45.40:792][236]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.03.13-05.46.03:316][872]BlueprintLog: New page: Compile BP_Player
+[2019.03.13-05.46.06:496][140]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-05.46.06:508][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.46.06:509][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-05.46.06:509][140]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 3:46:06 PM)
+[2019.03.13-05.46.06:509][140]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-05.46.06:513][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003870s)
+[2019.03.13-05.46.06:513][140]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-05.46.06:514][140]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.03.13-05.46.06:514][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004744s)
+[2019.03.13-05.46.06:603][140]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-05.46.06:612][140]LogInit: FAudioDevice initialized.
+[2019.03.13-05.46.06:648][140]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-05.46.06:649][140]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-22.46.06
+[2019.03.13-05.46.06:650][140]LogWorld: Bringing up level for play took: 0.000889
+[2019.03.13-05.46.06:664][140]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 1.036
+[2019.03.13-05.46.06:664][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.46.15:510][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.46.16:554][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.46.16:554][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.46.16:593][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-05.46.16:593][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.46.16:676][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.46.16:697][311]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.13-05.47.59:315][468]BlueprintLog: New page: Compile BP_Player
+[2019.03.13-05.49.16:771][195]BlueprintLog: New page: Compile BP_Player
+[2019.03.13-05.49.18:647][310]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-05.49.18:651][310]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-05.49.19:770][431]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-05.49.19:780][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.49.19:780][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-05.49.19:780][431]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 3:49:19 PM)
+[2019.03.13-05.49.19:780][431]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-05.49.19:785][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004482s)
+[2019.03.13-05.49.19:785][431]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-05.49.19:785][431]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.03.13-05.49.19:786][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005344s)
+[2019.03.13-05.49.19:883][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-05.49.19:892][431]LogInit: FAudioDevice initialized.
+[2019.03.13-05.49.19:926][431]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-05.49.19:928][431]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-22.49.19
+[2019.03.13-05.49.19:928][431]LogWorld: Bringing up level for play took: 0.001030
+[2019.03.13-05.49.19:941][431]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 0.313
+[2019.03.13-05.49.19:942][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.49.27:001][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-05.49.27:968][382]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.49.27:968][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.49.28:009][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-05.49.28:009][382]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-05.49.28:085][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-05.49.28:115][383]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.13-05.51.40:369][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Alpha/Desktop/unreal/UnrealBanana/Banana_Model.fbx)
+[2019.03.13-05.51.40:499][451]LogFbx: Loading FBX Scene from ../../../../../../Users/Alpha/Desktop/unreal/UnrealBanana/Banana_Model.fbx
+[2019.03.13-05.51.40:538][451]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.13-05.51.52:808][451]LogTexture: Display: Building textures: T_Banana_D (AutoDXT, 1024X1024)
+[2019.03.13-05.51.52:808][451]LogMaterial: Display: Missing cached shader map for material M_Banana, compiling. 
+[2019.03.13-05.51.52:852][451]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.51.52:852][451]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.51.55:428][451]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.51.56:767][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.13-05.51.57:146][451]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2019.03.13-05.51.57:655][451]LogStaticMesh: Building static mesh Banana_Model...
+[2019.03.13-05.51.57:751][451]LogStaticMesh: Built static mesh [0.10s] /Game/Banana_Model.Banana_Model
+[2019.03.13-05.51.57:868][451]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Alpha/Desktop/unreal/UnrealBanana/Banana_Texture.jpg)
+[2019.03.13-05.51.57:923][451]LogTexture: Display: Building textures: Banana_Texture (AutoDXT, 1024X1024)
+[2019.03.13-05.52.05:009][936]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.13-05.52.16:452][884]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-05.52.17:368][884]LogRenderer: Reallocating scene render targets to support 1432x964 Format 10 NumSamples 1 (Frame:1).
+[2019.03.13-05.52.32:349][981]LogSlate: Window 'Banana_Model*' being destroyed
+[2019.03.13-05.53.08:672][337]LogAssetEditorManager: Opening Asset editor for Material /Game/Banana_Material.Banana_Material
+[2019.03.13-05.53.08:720][337]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.08:845][337]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.08:878][337]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.08:878][337]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.09:495][361]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.09:510][362]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.09:757][378]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.09:774][379]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.10:022][395]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.10:022][395]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.10:248][408]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.10:303][411]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.10:574][426]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.10:905][444]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.11:128][458]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.11:198][463]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.11:608][489]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.11:688][494]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.11:906][508]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.12:220][524]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.12:431][536]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.12:495][539]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.12:851][560]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.13:149][578]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.53.13:149][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.53.13:149][578]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.53.13:149][578]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.53.15:564][774]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.15:592][774]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.15:592][774]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.15:592][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-05.53.15:875][790]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.15:875][790]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.16:108][806]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.16:151][809]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.16:331][821]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.16:388][825]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.16:555][836]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.16:555][836]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.16:771][852]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.17:032][871]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.17:282][889]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.17:323][892]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.17:781][924]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.17:838][928]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.18:073][945]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.18:343][964]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.18:632][985]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.18:632][985]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.19:096][ 19]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.19:150][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.19:383][ 39]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.19:409][ 40]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.53.19:409][ 40]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.53.19:409][ 40]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.53.19:409][ 40]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.53.34:431][242]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.34:449][242]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.34:450][242]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.34:450][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.03.13-05.53.34:764][255]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.34:764][255]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.35:007][269]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.35:038][271]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.35:227][283]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.35:276][286]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.35:464][299]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.35:464][299]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.35:719][315]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.36:112][338]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.36:410][353]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.36:443][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.36:929][380]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.36:946][381]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.37:199][395]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.37:449][410]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.37:750][427]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.37:750][427]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.38:191][454]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.38:222][456]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.38:500][473]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.38:501][473]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.53.38:501][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.53.38:501][473]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.53.38:501][473]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.53.40:239][608]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.40:322][609]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.40:322][609]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.40:552][624]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.40:552][624]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.40:892][645]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.40:987][651]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.41:192][663]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.41:253][667]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.41:414][679]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.41:437][681]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.41:597][693]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.41:892][714]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.42:079][727]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.42:168][733]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.42:555][755]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.42:698][764]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.42:851][774]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.43:200][796]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.43:391][808]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.43:479][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.43:818][837]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.44:518][896]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.44:541][896]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-05.53.44:557][896]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.44:557][896]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.44:824][912]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.44:842][913]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.45:050][926]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.45:082][928]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.45:340][944]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.45:389][947]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.45:610][961]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.45:662][964]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.45:870][978]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.46:175][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.46:337][ 12]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.46:431][ 19]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.46:806][ 46]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.46:885][ 52]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.47:061][ 65]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.47:384][ 83]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.47:578][ 95]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.47:656][100]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.47:974][121]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.48:094][129]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.48:283][142]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.49:011][197]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.53.49:011][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.53.49:011][197]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.53.49:011][197]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.53.50:907][357]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.50:927][357]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.50:927][357]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.50:930][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.03.13-05.53.51:329][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.51:344][378]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.51:573][392]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.53.51:604][394]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.53.51:790][406]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.53.51:839][409]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.53.51:991][419]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.53.52:020][421]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.53.52:208][434]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.53.52:539][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.53.52:580][453]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.13-05.53.52:756][464]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.53.52:814][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.53.53:275][496]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.53.53:354][501]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.53.53:559][514]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.53.53:932][536]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.53.54:150][550]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.53.54:223][555]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.53.54:599][579]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.53.54:693][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.53.54:891][597]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.53.54:892][597]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.53.54:892][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.53.54:892][597]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.53.54:892][597]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.53.59:861][976]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.53.59:885][976]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.53.59:885][976]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.53.59:885][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-05.54.00:180][993]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.00:180][993]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.00:395][  7]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.54.00:470][ 12]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.54.00:615][ 21]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.54.00:703][ 27]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.54.00:840][ 36]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.54.00:925][ 41]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.54.01:159][ 55]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.54.01:563][ 79]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.54.01:570][ 79]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.54.01:595][ 79]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-05.54.01:744][ 86]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.13-05.54.01:851][ 93]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.54.02:020][104]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.02:125][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.02:311][123]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.54.02:360][126]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.54.02:531][137]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.54.02:594][141]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.54.02:765][151]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.54.02:786][152]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.54.02:978][164]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.54.03:266][182]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.54.03:386][190]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.54.03:416][190]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-05.54.03:447][190]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.13-05.54.03:471][191]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.13-05.54.03:567][197]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.54.03:752][209]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.03:826][214]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.04:016][227]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.54.04:061][230]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.54.04:251][243]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.54.04:283][245]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.54.04:454][257]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.54.04:471][258]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.54.04:678][272]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.54.04:998][293]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.54.05:267][310]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.54.05:337][315]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.54.05:816][345]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.54.05:939][352]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.54.06:244][369]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.54.06:589][389]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.54.06:844][404]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.54.06:878][406]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.54.07:300][431]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.54.07:380][436]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.54.07:618][450]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.54.07:619][450]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.54.07:619][450]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.54.07:619][450]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.54.07:619][450]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.54.47:175][582]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.54.47:190][582]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.47:190][582]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.47:196][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.03.13-05.54.47:231][582]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.54.47:816][617]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.13-05.54.47:816][617]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.54.48:157][637]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.48:205][640]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.48:444][654]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.54.48:493][657]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.54.48:741][672]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.54.48:741][672]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.54.49:005][689]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.54.49:006][689]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.54.49:181][700]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.54.49:230][703]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.54.49:437][716]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.54.49:767][735]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.54.50:002][750]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.54.50:105][756]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.54.50:503][781]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.54.50:651][790]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.54.50:902][805]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.54.51:352][832]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.54.51:582][847]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.54.51:659][852]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.54.52:022][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.54.52:313][894]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.03.13-05.54.52:313][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.03.13-05.54.52:313][894]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.13-05.54.52:313][894]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.13-05.54.59:100][440]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.54.59:123][440]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.59:123][440]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.59:123][440]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.03.13-05.54.59:431][456]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.54.59:431][456]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.54.59:684][472]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-05.54.59:749][476]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-05.54.59:946][487]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-05.54.59:983][490]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-05.55.00:162][501]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-05.55.00:196][503]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-05.55.00:383][515]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-05.55.00:674][533]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.55.00:901][547]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-05.55.00:979][552]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-05.55.01:455][579]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-05.55.01:607][589]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-05.55.01:819][602]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-05.55.02:131][622]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.13-05.55.02:363][638]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.13-05.55.02:407][641]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.13-05.55.02:806][666]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.13-05.55.02:881][670]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.55.03:143][686]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: Texture samplers: 4/16
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.03.13-05.55.03:167][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.03.13-05.55.14:750][584]LogMaterialEditor: Applying material Banana_Material
+[2019.03.13-05.55.15:428][584]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.55.15:489][584]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-05.55.15:489][584]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-05.55.15:511][584]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.55.15:542][584]LogMaterial: Display: Missing cached shader map for material Banana_Material, compiling. 
+[2019.03.13-05.55.15:653][584]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Banana_Material, compiling. 
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-05.55.18:895][584]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-05.55.18:924][584]TextureStreamingBuild: Display: Compiling optional shaders took 3.281 seconds.
+[2019.03.13-05.55.21:365][720]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-05.55.22:983][825]LogSlate: Window 'Banana_Material*' being destroyed
+[2019.03.13-05.55.22:988][825]LogSlate: Window 'Banana_Material*' being destroyed
+[2019.03.13-05.55.24:317][947]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-05.55.59:420][272]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BananaCollector/Maps/TutorialMap' took 0.079
+[2019.03.13-05.55.59:421][272]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Player] ([1] browsable assets)...
+[2019.03.13-05.55.59:466][272]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Player.BP_Player]
+[2019.03.13-05.55.59:466][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player]
+[2019.03.13-05.55.59:466][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.03.13-05.55.59:502][272]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_Player_Auto31E665493461857EAB6FD9A82278DC7DF.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Player_Auto3.uasset'
+[2019.03.13-05.55.59:504][272]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Banana_Model] ([1] browsable assets)...
+[2019.03.13-05.55.59:545][272]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Banana_Model.Banana_Model]
+[2019.03.13-05.55.59:545][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Banana_Model]
+[2019.03.13-05.55.59:562][272]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_Model_Auto3261AA5B74E3509BE4E46AD80DD727F5A.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/Banana_Model_Auto3.uasset'
+[2019.03.13-05.55.59:563][272]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Banana_Texture] ([1] browsable assets)...
+[2019.03.13-05.55.59:577][272]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Banana_Texture.Banana_Texture]
+[2019.03.13-05.55.59:577][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Banana_Texture]
+[2019.03.13-05.55.59:588][272]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_Texture_Auto37286B52642FA7614650BAD9A76B23D73.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/Banana_Texture_Auto3.uasset'
+[2019.03.13-05.55.59:590][272]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Banana_Material] ([1] browsable assets)...
+[2019.03.13-05.55.59:632][272]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Banana_Material.Banana_Material]
+[2019.03.13-05.55.59:632][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Banana_Material]
+[2019.03.13-05.55.59:651][272]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_Material_Auto344DC8BC3422E824F4A7BCCB4FF2E0F5B.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/Banana_Material_Auto3.uasset'
+[2019.03.13-05.55.59:654][272]LogFileHelpers: Auto-saving content packages took 0.232
+[2019.03.13-05.59.18:252][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Banana_Model" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Model.uasset" SILENT=true
+[2019.03.13-05.59.18:261][866]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_ModelA0DF0A4F45649E014F4CE7BD458E15AE.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Model.uasset'
+[2019.03.13-05.59.21:966][149]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.00.06:482][688]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-06.00.08:865][834]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.00.08:870][834]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.00.10:436][985]LogActorFactory: Actor Factory created Banana_Model
+[2019.03.13-06.00.11:170][ 63]LogActorFactory: Actor Factory created Banana_Model
+[2019.03.13-06.00.30:063][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banana_Model)
+[2019.03.13-06.00.30:159][278]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.13-06.00.31:824][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.00.32:036][471]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-06.01.03:551][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.01.10:231][207]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.01.10:236][207]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.01.59:844][498]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-06.02.01:920][620]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.02.01:925][620]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.02.04:343][837]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Banana_Texture.Banana_Texture
+[2019.03.13-06.02.04:419][837]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.13-06.02.05:978][946]LogSlate: Window 'Banana_Texture*' being destroyed
+[2019.03.13-06.02.05:984][946]LogSlate: Window 'Banana_Texture*' being destroyed
+[2019.03.13-06.02.07:197][ 52]LogAssetEditorManager: Opening Asset editor for Material /Game/Banana_Material.Banana_Material
+[2019.03.13-06.02.07:201][ 52]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.13-06.02.07:306][ 52]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.13-06.02.07:329][ 52]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.03.13-06.02.07:365][ 52]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-06.02.07:365][ 52]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-06.02.07:381][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSpriteTextureSampler_0, compiling. 
+[2019.03.13-06.02.07:390][ 52]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.03.13-06.02.08:200][ 83]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.13-06.02.08:280][ 87]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.13-06.02.08:561][103]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.13-06.02.08:580][104]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.13-06.02.08:851][119]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.13-06.02.08:851][119]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.13-06.02.09:084][131]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.13-06.02.09:140][134]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.13-06.02.09:367][146]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.13-06.02.09:754][166]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.13-06.02.10:059][182]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.13-06.02.10:114][185]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.13-06.02.10:671][213]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.13-06.02.10:825][221]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.13-06.02.11:137][237]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.13-06.02.11:496][257]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.13-06.02.11:823][275]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.13-06.02.11:826][275]LogSlate: Window 'Banana_Material*' being destroyed
+[2019.03.13-06.02.11:832][275]LogSlate: Window 'Banana_Material*' being destroyed
+[2019.03.13-06.02.11:892][275]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.13-06.02.12:383][306]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.13-06.02.13:388][385]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-06.02.16:633][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.02.16:704][573]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.02.16:710][573]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.02.28:550][809]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.03.13-06.02.28:625][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.02.30:382][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.02.36:443][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.02.36:628][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GM_Tutorial.GM_Tutorial
+[2019.03.13-06.02.39:708][855]LogSlate: Window 'GM_Tutorial*' being destroyed
+[2019.03.13-06.02.39:714][855]LogSlate: Window 'GM_Tutorial*' being destroyed
+[2019.03.13-06.02.40:496][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.02.40:692][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Player.BP_Player
+[2019.03.13-06.02.46:914][273]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-06.02.46:919][273]LogSlate: Window 'BP_Player*' being destroyed
+[2019.03.13-06.02.48:968][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.02.52:785][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.04.03:606][881]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.13-06.04.03:651][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.04.04:119][921]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.478 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.13-06.04.08:516][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.04.10:333][483]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.04.44:248][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.04.44:335][ 36]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.04.44:341][ 36]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.04.48:597][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.04.51:667][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.04.52:484][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banana_Model)
+[2019.03.13-06.04.53:363][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.04.53:570][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.04.55:861][102]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.04.55:866][102]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.04.56:986][198]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.05.06:833][153]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.05.06:839][153]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.05.10:223][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.05.11:197][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.05.11:382][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.05.25:540][164]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.05.25:546][164]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.05.32:647][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banana_Model)
+[2019.03.13-06.05.34:497][174]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Banana_Model)
+[2019.03.13-06.05.34:524][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.05.36:622][410]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.03.13-06.05.36:630][410]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Banana_Model.Banana_Model
+[2019.03.13-06.05.38:624][534]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.05.38:629][534]LogSlate: Window 'Banana_Model' being destroyed
+[2019.03.13-06.05.39:848][661]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Banana_Model)
+[2019.03.13-06.05.39:879][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.05.47:299][290]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.13-06.05.51:033][538]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.13-06.05.56:023][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.06.49:611][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.07.41:518][285]BlueprintLog: New page: Compile BP_Banana
+[2019.03.13-06.07.43:007][375]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.07.43:014][375]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.07.49:306][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.07.50:840][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.07.52:538][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.07.54:321][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.07.54:420][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-06.07.54:433][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.07.54:433][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-06.07.54:433][360]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 4:07:54 PM)
+[2019.03.13-06.07.54:433][360]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-06.07.54:438][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004776s)
+[2019.03.13-06.07.54:439][360]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-06.07.54:439][360]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2019.03.13-06.07.54:439][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005809s)
+[2019.03.13-06.07.54:547][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-06.07.54:558][360]LogInit: FAudioDevice initialized.
+[2019.03.13-06.07.54:592][360]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-06.07.54:594][360]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-23.07.54
+[2019.03.13-06.07.54:619][360]LogWorld: Bringing up level for play took: 0.026113
+[2019.03.13-06.07.54:634][360]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap 1.006
+[2019.03.13-06.07.54:634][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.08.10:183][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.08.11:093][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.08.11:093][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-06.08.11:131][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-06.08.11:131][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.08.11:214][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-06.08.11:240][322]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.13-06.08.37:056][551]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/TutorialMap_Auto49CF81AFF423161F6C28E88967E709A64.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BananaCollector/Maps/TutorialMap_Auto4.umap'
+[2019.03.13-06.08.37:060][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BananaCollector/Maps/TutorialMap' took 0.309
+[2019.03.13-06.08.37:060][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2019.03.13-06.08.37:062][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Banana] ([1] browsable assets)...
+[2019.03.13-06.08.37:103][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Banana.BP_Banana]
+[2019.03.13-06.08.37:103][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Banana]
+[2019.03.13-06.08.37:103][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Banana" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Banana_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.13-06.08.37:130][551]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_Banana_Auto454A1355840991B42A1F4B78B55D5D385.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Autosaves/Game/BP_Banana_Auto4.uasset'
+[2019.03.13-06.08.37:132][551]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.03.13-06.09.27:284][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.09.29:376][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banana_Model)
+[2019.03.13-06.09.30:318][100]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Banana_Model)
+[2019.03.13-06.09.30:346][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.09.41:544][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.09.42:429][412]LogEditorViewport: Clicking on Actor (LMB): BP_Banana_C (BP_Banana5)
+[2019.03.13-06.09.42:537][416]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2019.03.13-06.09.44:943][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.09.45:157][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Banana.BP_Banana
+[2019.03.13-06.10.14:451][621]BlueprintLog: New page: Compile BP_Banana
+[2019.03.13-06.10.17:377][787]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.10.17:382][787]LogSlate: Window 'BP_Banana*' being destroyed
+[2019.03.13-06.10.18:908][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.10.19:033][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.13-06.10.19:043][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.10.19:043][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.13-06.10.19:043][963]PIE: New page: PIE session: TutorialMap (Mar 12, 2019, 4:10:19 PM)
+[2019.03.13-06.10.19:043][963]LogPlayLevel: Creating play world package: /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap
+[2019.03.13-06.10.19:048][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005004s)
+[2019.03.13-06.10.19:049][963]LogAIModule: Creating AISystem for world TutorialMap
+[2019.03.13-06.10.19:049][963]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.03.13-06.10.19:049][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BananaCollector/Maps/TutorialMap.TutorialMap to /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005811s)
+[2019.03.13-06.10.19:137][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.13-06.10.19:146][963]LogInit: FAudioDevice initialized.
+[2019.03.13-06.10.19:179][963]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.03.13-06.10.19:180][963]LogWorld: Bringing World /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2019.03.12-23.10.19
+[2019.03.13-06.10.19:181][963]LogWorld: Bringing up level for play took: 0.001697
+[2019.03.13-06.10.19:195][963]PIE: Play in editor start time for /Game/BananaCollector/Maps/UEDPIE_0_TutorialMap -0.433
+[2019.03.13-06.10.19:195][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.10.29:956][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.10.30:783][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.10.30:783][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-06.10.30:819][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.13-06.10.30:820][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/BananaCollector/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/BananaCollector/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.03.13-06.10.30:901][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.13-06.10.30:920][341]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.03.13-06.10.33:160][607]LogEditorViewport: Clicking on Actor (LMB): BP_Banana_C (BP_Banana5)
+[2019.03.13-06.10.34:390][738]Cmd: DELETE
+[2019.03.13-06.10.34:390][738]Cmd: ACTOR DELETE
+[2019.03.13-06.10.34:395][738]LogEditorActor: Deleted Actor: BP_Banana_C
+[2019.03.13-06.10.34:478][738]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.13-06.10.35:378][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banana_Model)
+[2019.03.13-06.10.36:022][911]Cmd: DELETE
+[2019.03.13-06.10.36:022][911]Cmd: ACTOR DELETE
+[2019.03.13-06.10.36:025][911]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.13-06.10.36:096][911]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.03.13-06.10.36:906][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.10.37:820][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.03.13-06.10.43:811][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.10.46:220][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.10.46:554][626]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/TutorialMap6D7E565E4A00E2FF6893E1B45006E03D.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BananaCollector/Maps/TutorialMap.umap'
+[2019.03.13-06.10.46:611][626]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/TutorialMap_BuiltDataB8F9C4544016C1D589AA449FA8CEAFB0.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BananaCollector/Maps/TutorialMap_BuiltData.uasset'
+[2019.03.13-06.11.30:229][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.13-06.12.26:042][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.26:634][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.27:103][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.29:735][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.31:493][286]LogUProjectInfo: Found projects:
+[2019.03.13-06.12.31:498][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.39:525][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.40:928][581]LogSlate: Window 'Convert Project' being destroyed
+[2019.03.13-06.12.40:943][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.40:981][582]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.03.13-06.12.41:057][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.46:438][582]LogSlate: Window 'Save Content' being destroyed
+[2019.03.13-06.12.46:451][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.13-06.12.46:458][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Banana_Material" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Material.uasset" SILENT=true
+[2019.03.13-06.12.46:465][582]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_Material6EE8BC0F43093875E4ECC184D26EB789.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Material.uasset'
+[2019.03.13-06.12.46:472][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Banana_Texture" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Texture.uasset" SILENT=true
+[2019.03.13-06.12.46:588][582]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/Banana_TextureA77EBE2C40A1758A447A52A5E639074D.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/Banana_Texture.uasset'
+[2019.03.13-06.12.46:643][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Banana" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BP_Banana.uasset" SILENT=true
+[2019.03.13-06.12.46:668][582]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_BananaEC563EA845443E11AF6EB59C699F428F.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BP_Banana.uasset'
+[2019.03.13-06.12.46:679][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BP_Player.uasset" SILENT=true
+[2019.03.13-06.12.46:705][582]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/BP_Player189D60BE4296C54F40ACEDA833ACEDF7.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/BP_Player.uasset'
+[2019.03.13-06.12.46:716][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GM_Tutorial" FILE="../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/GM_Tutorial.uasset" SILENT=true
+[2019.03.13-06.12.46:724][582]LogSavePackage: Moving '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Saved/GM_TutorialB377E647423640328258F19DBE8A495D.tmp' to '../../../../../../Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/GM_Tutorial.uasset'
+[2019.03.13-06.12.46:775][582]LogSlate: Window 'Open Project' being destroyed
+[2019.03.13-06.12.46:777][582]LogSlate: Window 'BananaCollector - Unreal Editor' being destroyed
+[2019.03.13-06.12.46:778][582]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.13-06.12.47:015][583]Cmd: QUIT_EDITOR
+[2019.03.13-06.12.47:838][583]LogExit: Preparing to exit.
+[2019.03.13-06.12.48:319][583]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Alpha/Desktop/unreal/BananaCollectorStarter 4.21/Content/', and we were unable to create a new request.
+[2019.03.13-06.12.48:358][583]LogExit: Editor shut down
+[2019.03.13-06.12.48:359][583]LogExit: Transaction tracking system shut down
+[2019.03.13-06.12.48:669][583]LogExit: Object subsystem successfully closed.
+[2019.03.13-06.12.48:691][583]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.13-06.12.48:697][583]LogD3D11RHI: Shutdown
+[2019.03.13-06.12.48:697][583]LogD3D11RHI: CleanupD3DDevice
+[2019.03.13-06.12.48:706][583]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module TextureEditor (638)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (636)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (634)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (628)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.03.13-06.12.48:751][583]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.13-06.12.48:761][583]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.13-06.12.48:762][583]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.13-06.12.48:763][583]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.13-06.12.48:764][583]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.13-06.12.49:273][583]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.13-06.12.49:329][583]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.13-06.12.49:338][583]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.13-06.12.49:338][583]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.13-06.12.49:340][583]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.13-06.12.49:345][583]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.13-06.12.49:543][583]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.13-06.12.49:548][583]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.13-06.12.49:549][583]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.13-06.12.49:550][583]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.13-06.12.49:550][583]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.13-06.12.49:550][583]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.13-06.12.49:651][583]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.13-06.12.49:752][583]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.13-06.12.49:753][583]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.13-06.12.49:753][583]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.13-06.12.49:753][583]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.13-06.12.49:753][583]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.13-06.12.49:754][583]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.13-06.12.49:755][583]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.13-06.12.49:761][583]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.13-06.12.49:767][583]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.13-06.12.49:767][583]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.13-06.12.49:767][583]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.13-06.12.49:767][583]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.13-06.12.49:768][583]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.13-06.12.49:770][583]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.13-06.12.49:771][583]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.13-06.12.49:771][583]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.13-06.12.49:852][583]LogDerivedDataCache: Shutdown
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.13-06.12.49:852][583]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.13-06.12.49:853][583]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.13-06.12.49:853][583]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.13-06.12.49:853][583]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.13-06.12.49:853][583]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.13-06.12.49:853][583]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.13-06.12.49:854][583]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.13-06.12.49:854][583]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.13-06.12.49:855][583]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.13-06.12.49:855][583]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.13-06.12.49:862][583]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.13-06.12.49:862][583]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.13-06.12.49:863][583]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.13-06.12.49:863][583]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.13-06.12.49:863][583]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.13-06.12.49:863][583]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.13-06.12.49:864][583]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.13-06.12.49:864][583]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.13-06.12.49:896][583]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.13-06.12.49:896][583]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.13-06.12.49:896][583]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2856DCE-422E-F8BB-0BDD-978F83CF03E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=ceb7623b442d548610fe4497672b3d5b%7C10b8e35e0de3446ab0e5fa53f293faa0%7Cae5be39c-9a50-4f20-a9e9-4067383e8ba2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.13-06.12.49:913][583]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.13-06.12.49:915][583]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.13-06.12.49:915][583]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.13-06.12.49:916][583]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.13-06.12.49:917][583]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.13-06.12.49:925][583]LogExit: Exiting.
+[2019.03.13-06.12.49:960][583]Log file closed, 03/12/19 23:12:49
